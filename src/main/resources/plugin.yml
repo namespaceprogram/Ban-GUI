@@ -1,0 +1,10 @@
+name: BanGUI
+version: '${project.version}'
+main: org.namespace.bangui.BanGUI
+api-version: 1.17
+authors: [ namespaceprogram ]
+description: A plugin that makes moderation easier with guis
+commands:
+  bangui:
+    description: A gui for banning players on the server
+    usage: /<command>
